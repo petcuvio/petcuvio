@@ -5,6 +5,7 @@
   - technology
   - recycling
   - open source software
+  - linux kernel and driver development
   - mecanical design
   - engineering 
   - basketball 
@@ -12,6 +13,7 @@
 ## 🌱 I’m currently learning 
   - Flutter
   - Blender
+  - Rust
 
 ## 💞️ I’m looking to collaborate
 
