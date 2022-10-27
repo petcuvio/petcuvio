@@ -6,7 +6,7 @@
   - recycling
   - open source software
   - linux kernel and driver development
-  - mecanical design
+  - mechanical design
   - engineering 
   - basketball 
 
