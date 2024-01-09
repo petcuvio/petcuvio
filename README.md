@@ -11,9 +11,9 @@
   - basketball 
 
 ## 🌱 I’m currently learning 
-  - Flutter
-  - Blender
+  - Python
   - Rust
+  - Blender
 
 ## 💞️ I’m looking to collaborate
 
